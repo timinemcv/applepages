@@ -1,0 +1,329 @@
+*{margin: 0%;padding: 0%;}
+/* ROW 1 CSS START */
+.row-1{width: 100%;height:60px; background-color:grey;display: flex;justify-content:space-between;} 
+.row-1 .logo{margin-right:30px; padding-top: 15px;}
+.row-1 .logo img{width: 15px;margin-bottom: 25px;margin-left: 45px;}
+.row-1 .links{width: 100%;margin-right: 70px;padding-right: 80px;padding-bottom: 5px;}
+.row-1 .links a{text-align: center;margin-bottom: 50px;text-decoration: none; color:whitesmoke;margin-right: 60px;margin-bottom: 20px;}
+.row-1 .links img{width: 15px;}
+
+
+/* ROW 1 CSS END */
+
+/* ROW 2 CSS START */
+.row-2{width: 100%;height: auto;justify-content: center;}
+.row-2 .column p{text-align: center;}
+.row-2 .column a{text-decoration: none;color:rgb(12, 93, 207) ;}
+/* ROW 2 CSS END */
+
+/* ROW 3 CSS START */
+.row-3{width:100%;height: 400px;display: flex;justify-content: center;justify-items: center;background-image: url("../img/images/iphone-13-pro.jpg");background-position:center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-3 .column2{text-align: center;margin-top: 30px;}
+.row-3 .h{text-align: center;}
+.row-3 .links a{text-align: center; text-decoration: none; padding: 5px 10px;color:rgb(43, 210, 229);}
+/* ROW 3 CSS END */
+
+/* ROW 4 CSS START */
+.row-4{width:100%;height: 400px;display: flex;justify-content: center;justify-items: center;background-image:url(../img/images/iphone-13.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-4 .column3{text-align:center;margin-top: 30px;}
+.row-4 .h{text-align: center;}
+.row-4 .links a{text-align: center; text-decoration: none; padding: 5px 10px;color:rgb(12, 93, 207)}
+/* ROW 4 CSS END */
+
+/* ROW 5 CSS START */
+.row-5{width:100%;height: 400px;display: flex;justify-content: center;justify-items: center;background-image:url(../img/images/watch.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-5 .column4{margin-top: 5px;margin-left: 130px;padding-right: 40px;}
+.row-5 .column4 h6{margin-right: 10px;text-align: center;color: orange;}
+.row-5 .column4 a{padding: 15px;margin-right: 5px;text-decoration: none;color: rgb(12, 93, 207);}
+/* ROW 5 CSS END */
+
+/* ROW 6 CSS START */
+.row-6{width:100%;height: auto;display: flex;text-align: center;}
+.row-6 .column{width:1000px;height: 400px;background-image:url(../img/images/fitness.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-6 .column1{width:1000px; height: 400px;background-image:url(../img/images/macbook-pro.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-6 .column p{align-content: center;}
+.row-6 .column h1{align-content: center;}
+.row-6 .column a{padding: 15px;margin-right: 5px;text-decoration: none;color: rgb(12, 93, 207);}
+.row-6 .column1 a{padding: 15px;margin-right: 5px;text-decoration: none;color: rgb(12, 93, 207);}
+
+/* ROW 6 CSS END */
+
+/* ROW 7 CSS START */
+.row-7{width:100%;height: auto;display: flex;text-align: center;}
+.row-7 .column{width:1000px;height: 400px;background-image:url(../img/images/valentine.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-7 .column1{width:1000px; height: 400px;background-image:url(../img/images/arcade.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-7 .column p{align-content: center; font-size:50px;color: purple; margin-bottom: 10px;}
+.row-7 .column1 a{padding: 15px;margin-right: 5px;text-decoration: none;color: rgb(23, 93, 207);}
+.row-7 .column h6{align-content: center; margin-top: 30px;}
+.row-7 .column a{padding: 15px;margin-right: 5px;text-decoration: none;color: rgb(23, 93, 207);}
+
+/* ROW 7 CSS END */
+
+/* ROW 8 CSS START */
+
+.row-8{width:100%;height: auto;display: flex;text-align: center;}
+.row-8 .logo{width:1000px;height: 400px;background-image:url(../img/images/card.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-8 .column{width:1000px;height: 400px;background-image:url(../img/images/tv-plus.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-8 .logo p{align-content: center;}
+.row-8 .logo img{margin-top: 30px;}
+.row-8 .logo h6{align-content: center;}
+.row-8 .column p{align-content: center; color:whitesmoke;margin-top: 255px;font-size:xx-small;}
+.row-8 .column h4{align-content: center;color: whitesmoke;}
+.row-8 .column h2{align-content: center; color: whitesmoke;}
+.row-8 .logo a{padding: 15px;margin-right: 5px;text-decoration: none;color: rgb(23, 93, 207);}
+.row-8 .column a{padding: 15px;margin-right: 5px;text-decoration: none;color: rgb(23, 93, 207);}
+/* ROW 8 CSS END */
+
+/* ROW 9 CSS START */
+.row-9{width:100%;height: auto;display: flex;background-color: rgba(246, 241, 241, 0.896);justify-content: center;justify-items: center;margin-top: 30px;}
+.row-9 .column p{ text-align:left;padding-right: 60px; padding-left: 60px;}
+/* ROW 9 CSS START */
+/* ROW 10 CSS START */
+.row-10{width: 100%;height: auto;justify-content: space-between;;display: flex; margin-top: 40px}
+/* ROW 10 CSS END */
+
+/* ROW 11 CSS START */
+.row-11{width: 100%;margin-bottom: 30px;justify-items: center;}
+.row-11 .column a{text-decoration: none;color: rgb(12, 93, 207)}
+.row-11 .column p{text-align: center;width:100% ;}
+/* ROW 11 CSS END */
+
+/* ROW 12 CSS START */
+.row-12{width: 100%;margin-bottom: 30px;justify-items: center;}
+.row-12 .column a{text-decoration: none;color: rgb(12, 93, 207)}
+.row-12 .column p{text-align: center;width:100% ;}
+/* ROW 12 CSS END */
+
+/* ROW 1 SUPPORT CSS */
+*{margin: 0%;padding: 0%;}
+.row-1-s{width: 100%;height:60px; background-color:rgb(51, 23, 10);display: flex;justify-content:space-between;} 
+.row-1-s .logo{margin-right:30px; padding-top: 15px;}
+.row-1-s .logo img{width: 15px;margin-bottom: 25px;margin-left: 45px;}
+.row-1-s .links{width: 100%;margin-right: 70px;padding-right: 80px;padding-bottom: 5px;}
+.row-1-s .links a{text-align: center;margin-bottom: 50px;text-decoration: none; color:whitesmoke;margin-right: 60px;margin-bottom: 20px;}
+.row-1-s .links img{width: 15px;}
+/* ROW 1 CSS END */
+
+/* ROW 2 SUPPORT CSS START */
+.row-2-s{width:100%;height: 400px;display: flex;justify-content: center;justify-items: center;background-image: url("../img1/images/banner.jpg");background-position:center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-2-s .column h1{margin-top: 130px;font-size: xx-large;color: whitesmoke;}
+/* ROW 2 SUPPORT CSS END */
+
+/* ROW 3 SUPPORT CSS START */
+.row-3-s{width: 100%; display: flex;justify-content: space-evenly;height: auto;font-size: xx-small;}
+.row-3-s .column img{width: 70px;padding: 12px 40px; }
+/* ROW 3 SUPPORT CSS END */
+
+/* ROW 4 SUPPORT CSS START */
+.row-4-s{width:100%;display: flex;justify-content: center;justify-items: center;margin-top: 15px;}
+.row-4-s .logo a{width:100%; color: rgb(12, 93, 207);margin-bottom: 40px;text-decoration: none; padding-right: 30px;}
+.row-4-s .logo img{width: 50px; padding: 30px 10px;}
+/* ROW 4 SUPPORT CSS END */
+
+/* ROW 5 SUPPORT CSS START */
+.row-5-s{width: 100%; display: flex;justify-content: center;height: auto; margin-top: 30px;}
+.row-5-s .column1{width: 700px;height: 40px;font-size: larger;margin-bottom: 60px;}
+.row-5-s .column h1{margin-right: 40px;text-align: center;margin-bottom: 20px;}
+/* ROW 5 SUPPORT CSS END */
+
+/* ROW 6 SUPPORT CSS START */
+.row-6-s{width: 100%;display: flex;height: auto;justify-content: center;}
+.row-6-s .column{width: 300px;}
+.row-6-s .logo img{width:500px;height: 200px;}
+.row-6-s .column a{text-decoration: none;color: rgb(12, 93, 207);}
+
+/* ROW 6 SUPPORT CSS END */
+
+/* ROW 7 SUPPORT CSS START */
+.row-7-s{width: 100%;display: flex;height: auto;justify-content: center;margin-top: 15px;}
+.row-7-s .logo img{width:500px;height: 200px;}
+.row-7-s .column{margin-right: 50px;}
+.row-7-s .column a{text-decoration: none;color: rgb(12, 93, 207);}
+/* ROW 7 SUPPORT CSS END */
+
+
+/* ROW 8 SUPPORT CSS START */
+.row-8-s{width:100%;display: flex;height: 400px;margin-top: 15px;background-image:url(../img1/images/get-support.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-8-s .column{color:whitesmoke; padding-left: 120px; padding-top: 150px;}
+.row-8-s .column a{text-decoration: none;color: rgb(12, 93, 207);}
+
+/* ROW 8 SUPPORT CSS END */
+
+/* ROW 9 SUPPORT CSS START */
+.row-9-s{width: 100%;display: flex;height: auto;justify-content: center;margin-top: 15px;}
+.row-9-s .logo img{width:500px;height: 200px;}
+.row-9-s .column{margin-right: 50px;}
+.row-9-s .column a{text-decoration: none;color: rgb(12, 93, 207);}
+/* ROW 9 SUPPORT CSS END */
+
+/* ROW 10 SUPPORT CSS START */
+.row-10-s{width: 100%;display: flex;height: auto;justify-content: center;margin-top: 30px;}
+.row-10-s .column{width: 300px;}
+.row-10-s .logo img{width:400px;height: 200px;}
+.row-10-s .column a{text-decoration: none;color: rgb(12, 93, 207);}
+
+/* ROW 10 SUPPORT CSS END */
+
+/* ROW 11 SUPPORT CSS START */
+.row-11-s{width: 100%;text-align: center; margin-top: 30px;}
+/* ROW 11 SUPPORT CSS end */
+
+/* ROW 12 SUPPORT CSS START */
+.row-12-s{width: 100%;display: flex;height: auto;justify-content: center;margin-top: 30px;}
+.row-12-s .column{width: 300px;}
+.row-12-s .logo img{width:400px;height: 200px;}
+.row-12-s .column a{text-decoration: none;color: rgb(12, 93, 207);}
+/* ROW 12 SUPPORT CSS end */
+
+/* ROW 13 SUPPORT CSS START */
+.row-13-s{width: 100%;text-align:start; margin-top: 30px;margin-left: 400px;}
+.row-13-s .column a{text-decoration: none;color: rgb(12, 93, 207);}
+/* ROW 13 SUPPORT CSS end */
+
+/* ROW 14 SUPPORT CSS START */
+.row-14-s{width: 100%;height:auto;font-size:small;justify-content: center;margin-left: 600px;margin-top: 20px;}
+.row-14-s .column img{height: 30px;padding-left: 30px;}
+
+
+/* ROW 14 SUPPORT CSS end */
+
+/* ROW 15 support CSS START */
+.row-15-s{width: 100%;height: auto;justify-content: space-between;;display: flex; margin-top: 40px;margin-left: 10px;;margin-right: 10px;}
+/* ROW 15 support CSS END */
+
+/* ROW 12 CSS START */
+.row-12-s{width: 100%;margin-bottom: 30px;justify-items: center;}
+.row-16-s .column a{text-decoration: none;color: rgb(12, 93, 207)}
+.row-16-s .column p{text-align: center;width:100% ;}
+/* ROW 16 support CSS END */
+
+/* ROW 1 IPHONE CSS START */
+.row-1-p{width: 100%;height:60px; background-color:rgb(37, 35, 35);display: flex;justify-content:space-between; } 
+.row-1-p .logo{margin-right:30px; padding-top: 15px;}
+.row-1-p .logo img{width: 15px;margin-bottom: 25px;margin-left: 45px;}
+.row-1-p .links{width: 100%;margin-right: 70px;padding-right: 80px;padding-bottom: 5px;}
+.row-1-p .links a{text-align: center;margin-bottom: 50px;text-decoration: none; color:whitesmoke;margin-right: 60px;margin-bottom: 20px;}
+.row-1-p .links img{width: 15px;}
+/* ROW 1 IPHONE CSS END */
+
+/* ROW 2 IPHONE CSS START */
+.row-2-p{width: 100%; display: flex;justify-content: space-evenly;height: auto;font-size: xx-small;background-color: rgb(252, 255, 255);}
+.row-2-p .column img{width: 20px;padding: 1px 35px; margin-right: 20px;}
+/* ROW 2 IPHONE CSS end */
+
+/* ROW 3 IPHONE CSS START */
+.row-3-p{width:100%;display: flex;justify-content: center;font-size: small;background-color: rgb(252, 255, 255); text-decoration: none; margin-top: 40px;}
+.row-3-p .column a{text-decoration: none;color: rgb(12, 93, 207);}
+/* ROW 3 IPHONE CSS END */
+
+/* ROW 4 IPHONE CSS START */
+.row-4-p{width:100%;height: 700px;display: flex;justify-content: center;justify-items: center;background-image: url("../img/images/iphone-13-pro.jpg");background-position:bottom;background-repeat: no-repeat;background-size: cover;text-decoration: none;margin-top: 30px;}
+.row-4-p .column{text-align: center;margin-top: 10px;}
+.row-4-p .h{text-align: center; }
+.row-4-p .links a{text-align: center; text-decoration: none; padding: 5px 10px;color:rgb(12, 93, 207);margin-top: 40px;}
+.row-4-p a:hover{border: 2px solid blue;background-color: transparent;color: blue;}
+/* ROW 4 CSS END */
+
+/* ROW 5 IPHONE CSS START */
+.row-5-p{width:100%;height: 700px;display: flex;justify-content: center;justify-items: center;background-image: url("../img/images/iphone-13.jpg");background-position:bottom;background-repeat: no-repeat;background-size: cover;text-decoration: none;margin-top: 30px;}
+.row-5-p .column{text-align: center;margin-top: 10px;}
+.row-5-p .h{text-align: center; }
+.row-5-p .links a{text-align: center; text-decoration: none; padding: 5px 10px;color:rgb(12, 93, 207);margin-top: 40px;}
+.row-5-p a:hover{border: 2px solid blue;background-color: transparent;color: blue;}
+/* ROW 5 IPHONE CSS END */
+
+/* ROW 6 IPHONE CSS START */
+.row-6-p{width:100%;display: flex;border-radius: 5px;margin-top: 10px;margin-left: 10px;margin-right: 30px;height: 700px;background-image:url(../img3/images/guided-tour.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;text-decoration: none;}
+.row-6-p .column{color:whitesmoke; padding-left: 120px; padding-top: 150px;}
+.row-6-p .column a{text-decoration: none;color:black;background-color: whitesmoke;}
+.row-6-p a:hover{border-radius:20px solid whitesmoke;background-color: transparent;color: whitesmoke; }
+/* ROW 6 IPHONE CSS START */
+
+/* ROW 7 IPHONE CSS START */
+.row-7-p{width: 100%; display: flex;justify-content: space-evenly;height: auto;justify-items: center;}
+.row-7-p .column h2{text-align: center;margin-top: 40px;margin-bottom: 30px;}
+/* ROW 7 IPHONE CSS START */
+
+/* ROW 8 IPHONE CSS START */
+.row-8-p{width: 100%;height: 120px; display: flex;justify-items: space-between;height: auto;padding: 12px 30px;justify-content:space-evenly;}
+.row-8-p .column img{padding-bottom: 10px; justify-content: space-between;}
+.row-8-p .column{width: 100px;text-align: center;}
+.row-8-p .column1{width: 100px;text-align: center;padding-top: 27px;}
+.row-8-p .column2{width: 100px;text-align: center;padding-top: 27px;}
+.row-8-p .column3{width: 100px;text-align: center;padding-top: 27px;}
+.row-8-p a{text-align: center;text-decoration: none;color: rgb(12, 93, 207);}
+
+/* ROW 8 IPHONE CSS END */
+
+/* ROW 9 IPHONE CSS START */
+.row-9-p{width: 100%; display: flex;margin-top: 30px;justify-items: space-evenly;height: auto;justify-content:space-evenly;}
+.row-9-p .column{text-align: center;}
+/* ROW 9 IPHONE CSS START */
+
+/* ROW 10 IPHONE CSS START */
+.row-10-p{width: 100%;height: 120px; display: flex;justify-items: space-between;height: auto;padding: 12px 30px;justify-content:space-evenly;}
+.row-10-p .column img{padding-bottom: 10px; justify-content: space-between;}
+.row-10-p .column{width: 100px;text-align: center;}
+.row-10-p .column1{width: 100px;text-align: center;}
+.row-10-p .column2{width: 100px;text-align: center;}
+.row-10-p .column3{width: 100px;text-align: center;}
+/* ROW 10 IPHONE CSS START */
+
+/* ROW 11 IPHONE CSS START */
+.row-11-p{width: 100%;height: 120px; display: flex;justify-items: space-between;height: auto;padding: 12px 30px;justify-content:space-evenly;}
+.row-11-p .column img{padding-bottom: 10px; justify-content: space-between;}
+.row-11-p .column{width: 100px;text-align: center;}
+.row-11-p .column1{width: 100px;text-align: center;}
+.row-11-p .column2{width: 100px;text-align: center;}
+.row-11-p .column3{width: 100px;text-align: center;}
+/* ROW 11 IPHONE CSS START */
+
+/* ROW 10 IPHONE CSS START */
+.row-12-p{width: 100%;height: 120px; display: flex;justify-items: space-between;height: auto;padding: 12px 30px;justify-content:space-evenly;}
+.row-12-p .column img{padding-bottom: 10px; justify-content: space-between;}
+.row-12-p .column{width: 100px;text-align: center;}
+.row-12-p .column1{width: 100px;text-align: center;}
+.row-12-p .column2{width: 100px;text-align: center;}
+.row-12-p .column3{width: 100px;text-align: center;}
+/* ROW 10 IPHONE CSS START */
+
+/* ROW 10 IPHONE CSS START */
+.row-13-p{width: 100%;height: 120px; display: flex;justify-items: space-between;height: auto;padding: 12px 30px;justify-content:space-evenly;}
+.row-13-p .column img{padding-bottom: 10px; justify-content: space-between;}
+.row-13-p .column{width: 100px;text-align: center;}
+.row-13-p .column1{width: 100px;text-align: center;}
+.row-13-p .column2{width: 100px;text-align: center;}
+.row-13-p .column3{width: 100px;text-align: center;}
+/* ROW 10 IPHONE CSS START */
+
+/* ROW 10 IPHONE CSS START */
+.row-14-p{width: 100%;height: 120px; display: flex;justify-items: space-between;height: auto;padding: 12px 30px;justify-content:space-evenly;}
+.row-14-p .column img{padding-bottom: 10px; justify-content: space-between;}
+.row-14-p .column{width: 100px;text-align: center;}
+.row-14-p .column1{width: 100px;text-align: center;}
+.row-14-p .column2{width: 100px;text-align: center;}
+.row-14-p .column3{width: 100px;text-align: center;}
+/* ROW 10 IPHONE CSS START */
+
+/* ROW 15 IPHONE CSS START */
+.row-15-p{width: 100%; display: flex;justify-content: space-evenly;height: auto;justify-items: center;color: rgba(252, 255, 255, 0.773);margin-bottom: 70px;margin-top: 50px;}
+.row-15-p .column h1{text-align: center;margin-top: 40px;margin-bottom: 30px; color: black;}
+/* ROW 15 IPHONE CSS END */
+
+/* ROW 16 IPHONE CSS START */
+.row-16-p{width: 100%; display: flex;justify-content: space-evenly;height: auto;color: rgba(252, 255, 255, 0.773);margin-bottom: 40px;margin-top: 30px;padding-right: 120px;}
+.row-16-p .column{text-align: center;margin-top: 40px;margin-bottom: 30px; color: black;}
+/* ROW 16 IPHONE CSS END */
+
+/* ROW 17 IPHONE CSS START */
+.row-17-p{width: 100%; display: flex;justify-content: space-evenly;height: auto;background-size:contain;background-position: center;background-repeat: no-repeat;}
+.row-17-p .column{text-align: center;margin-top: 5px;margin-bottom: 30px;}
+.row-17-p .column img{height:300px}
+.row-17-p .column1{text-align: center;}
+.row-17-p .column1 img{height: 300px;}
+/* ROW 17 IPHONE CSS END */
+
+/* ROW 18 IPHONE CSS START */
+.row-18-p{width: 100%; display: flex;justify-content: space-evenly;margin-bottom: 30px;height: auto;background-image: url(../img3/images/why-apple.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;}
+.row-18-p .column{text-align: center;margin-top: 40px;margin-bottom: 30px; }
+/* ROW 18 IPHONE CSS END */
